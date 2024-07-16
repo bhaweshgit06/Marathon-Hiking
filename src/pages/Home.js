@@ -1,6 +1,5 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import MapComponent from '../Components/customMap.js';
 
 const Home = () => {
   const navigate = useNavigate();
